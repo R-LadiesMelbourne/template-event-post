@@ -12,6 +12,7 @@ You can view XXX presentation in the .PDF (or .PPTX) in this repository.
 ## About the Speaker
 Insert details that were posted to Meetup about the speaker. 
 
+--- DO NOT COPY FOR TEMPLATE ---
 # Other notes
 
 - The repository should be listed as: DD-MM-YY-TITLE-WITH-DASH-BETWEEN-EVERY-WORD
